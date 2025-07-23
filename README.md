@@ -81,7 +81,7 @@ Backend will start on: http://localhost:4000
     node server.js
 Frontend website will run on: http://localhost:3000
 
-**🙋‍♀️ Author**
+## 🙋‍♀️ Author
 -Made with ❤️by Umama Khanam
 -Feel free to explore and contribute
 
