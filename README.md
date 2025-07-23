@@ -82,8 +82,8 @@ Backend will start on: http://localhost:4000
 Frontend website will run on: http://localhost:3000
 
 ## 🙋‍♀️ Author
--Made with ❤️ by Umama Khanam
+Made with ❤️ by Umama Khanam
 
--Feel free to explore and contribute
+Feel free to explore and contribute
 
  
