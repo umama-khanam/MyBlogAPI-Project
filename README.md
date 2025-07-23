@@ -50,7 +50,7 @@ The project consists of:
 ### 🔹 Create/Edit Blog View
 ![Blog Form](https://github.com/umama-khanam/MyBlogAPI-Project/blob/main/New%20Post.png)
 ### ✍️ Add/Edit Blog Post Form
-![Blog Form]()
+![Blog Form](https://github.com/umama-khanam/MyBlogAPI-Project/blob/main/Edit%20Post.png)
 
 ## 🚫 Live Hosting Not Available
 
