@@ -45,7 +45,7 @@ The project consists of:
 ## 📸 Project Preview
 
 ### 🔹 Homepage View
-![Blog Homepage](./screenshots/blog-ui.png)
+![Blog Homepage](https://github.com/umama-khanam/MyBlogAPI-Project/blob/main/HomePage%20preview.png)
 
 ### 🔹 Create/Edit Blog View
 ![Blog Form](./screenshots/blog-form.png)
