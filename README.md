@@ -48,7 +48,7 @@ The project consists of:
 ![Blog Homepage](https://github.com/umama-khanam/MyBlogAPI-Project/blob/main/HomePage%20preview.png)
 
 ### 🔹 Create/Edit Blog View
-![Blog Form](./screenshots/blog-form.png)
+![Blog Form](https://github.com/umama-khanam/MyBlogAPI-Project/blob/main/New%20Post.png)
 
 ## 🚫 Live Hosting Not Available
 
